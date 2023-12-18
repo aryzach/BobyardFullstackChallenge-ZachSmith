@@ -1,5 +1,6 @@
-Assumes `psql`, `npm`, and `conda` are installed.
+Assumes `postgres`, `npm`, and `conda` are installed.
 
-make all
+Run `make all`
 
-make -j start_frontend start_backend 
+then run `make -j start_frontend start_backend` 
+
